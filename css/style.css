@@ -46,14 +46,14 @@ img{
 }
 
 nav{
-    background-color: #ebedf0;
+    background-color: #94dee6;
     padding:1rem;
 }
 nav a{
     font-size: 1.5rem;
     text-decoration: none;
     font-weight: 900;
-    color: #54524d;
+    color: #37496e;
 }
 nav ul,#skills ul{
     display: flex;
